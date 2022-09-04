@@ -1,0 +1,23 @@
+img {
+  height: 200px;
+}
+#name {
+    color: blue;
+  }
+  
+  #result {
+    color: green;
+  }
+  .sample1 {
+    font-weight: bold;
+    width: 200px;
+    height: 100px;
+    padding: 30px;
+    margin-bottom: 0px;
+  }
+  .sample2 {
+    width: 200px;
+    height: 200px;
+    margin-top: 0px;
+    margin-left: 50px;
+  }
